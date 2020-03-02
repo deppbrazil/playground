@@ -1,4 +1,4 @@
-# Nome do projeto [![Doações](https://img.shields.io/badge/Doações-brightgreen.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BKXUAMJSNZN46&item_name=Thanks+for+Help+me%21&currency_code=BRL&source=url)
+# Parque de diversões [![Doações](https://img.shields.io/badge/Doações-brightgreen.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BKXUAMJSNZN46&item_name=Thanks+for+Help+me%21&currency_code=BRL&source=url)
 
 <!-- Traduzir -->
 <a href="./README.md">
@@ -15,69 +15,37 @@
 <!-- Primeiros badges -->
 <p align="center">
   <!-- Codacy -->
-  <a href="https://www.codacy.com/manual/deppbrazil/repository-patterns?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=deppbrazil/repository-patterns&amp;utm_campaign=Badge_Grade">
-    <img alt="Qualidade do código" src="https://api.codacy.com/project/badge/Grade/61cb2455f6ab4d809986f7d995623c3d"/>
+  <a href="https://www.codacy.com/manual/deppbrazil/playground?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=deppbrazil/playground&amp;utm_campaign=Badge_Grade">
+    <img src="https://api.codacy.com/project/badge/Grade/908637ccc4b04317886bbea59b569b55"/>
   </a>
   <!-- Último commit -->
   <a href="https://github.com/deppbrazil/repository-patterns/commits/master">
-    <img alt="Último commit" src="https://img.shields.io/github/last-commit/deppbrazil/repository-patterns.svg">
+    <img alt="Último commit" src="https://img.shields.io/github/last-commit/deppbrazil/playground.svg">
   </a>
   <!-- Tamanho do repo -->
-  <a href="https://github.com/deppbrazil/repository-patterns">
-    <img alt="Tamanho do repo" src="https://img.shields.io/github/repo-size/deppbrazil/repository-patterns.svg?color=brightgreen" />
+  <a href="https://github.com/deppbrazil/playground">
+    <img alt="Tamanho do repo" src="https://img.shields.io/github/repo-size/deppbrazil/playground.svg?color=brightgreen" />
   </a>
 </p>
 
 <!-- Segundos badges -->
 <p align="center">
   <!-- Contibuidores -->
-  <a href="https://github.com/deppbrazil/repository-patterns/graphs/contributors">
-    <img alt="Contibuidores do projeto" src="https://img.shields.io/github/contributors/deppbrazil/repository-patterns.svg?color=blue" />
+  <a href="https://github.com/deppbrazil/playground/graphs/contributors">
+    <img alt="Contibuidores" src="https://img.shields.io/github/contributors/deppbrazil/playground.svg?color=blue" />
   </a>
   <!-- Linguagens -->
-  <a href="https://github.com/deppbrazil/repository-patterns">
-    <img alt="Linguagens" src="https://img.shields.io/github/languages/count/deppbrazil/repository-patterns.svg" />
+  <a href="https://github.com/deppbrazil/playground">
+    <img alt="Linguagens" src="https://img.shields.io/github/languages/count/deppbrazil/playground.svg" />
   </a>
-  <!-- Licença -->
+  <!-- Licença de Software -->
   <a href="./LICENSE">
-    <img alt="Licença do Software" src="https://img.shields.io/badge/license-MIT-blue.svg">
+    <img alt="Licença de Software" src="https://img.shields.io/badge/license-MIT-blue.svg">
   </a>
 </p>
 
-## Início
-```console
-foo@bar:~$ npm install, or
-foo@bar:~$ yarn install
-```
+## Repositórios
+* [Log](https://github.com/deppbrazil/log)
 
-## Exemplo HTML5
-```html
-<section>
-<h1>Hello!</h1>
-</section>
-```
-
-## Exemplo CSS3
-```css
-.foo {
-width: 100vw;
-height: 100vh;
-}
-```
-
-## Exemplo ES6
-```js
-function nameFunction () => {}
-```
-
-## Descrição do desafio
->Lorem ipsum...
-
-## Demo
-*   [Clique aqui](https://www.deppbrazil.com)
-
-## Referência
-*   [Guia Markdown](https://guides.github.com/features/mastering-markdown/)
-
-## Licença 
+## Licença
 *   [MIT](./LICENSE) &copy; Mir Carvalho
