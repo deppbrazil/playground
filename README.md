@@ -1,11 +1,13 @@
 # Playground  [![Donate](https://img.shields.io/badge/Donate-brightgreen.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BKXUAMJSNZN46&item_name=Thanks+for+Help+me%21&currency_code=BRL&source=url)
 
 <!-- Translate -->
+
 <a href="./README-pt-br.md">
   <img alt="Translate" src="https://img.shields.io/badge/Translate-pt--br-blue.svg">
 </a>
 
 <!-- Banner -->
+
 <p align="center">
   <a href="" target="_blank" >
     <img alt="Banner" src="./.github/assets/brand.jpg" width="300" />
@@ -13,6 +15,7 @@
 </p>
 
 <!-- First badges -->
+
 <p align="center">
   <!-- Codacy -->
   <a href="https://www.codacy.com/manual/deppbrazil/playground?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=deppbrazil/playground&amp;utm_campaign=Badge_Grade">
@@ -29,6 +32,7 @@
 </p>
 
 <!-- Seconds badges -->
+
 <p align="center">
   <!-- Contributors -->
   <a href="https://github.com/deppbrazil/playground/graphs/contributors">
@@ -45,7 +49,9 @@
 </p>
 
 ## Repositories
-* [Log](https://github.com/deppbrazil/log)
+
+-   [Log](https://github.com/deppbrazil/log)
 
 ## License
-*   [MIT](./LICENSE) &copy; Mir Carvalho
+
+-   [MIT](./LICENSE) © Mir Carvalho
