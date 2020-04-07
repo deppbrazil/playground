@@ -22,7 +22,7 @@
     <img src="https://api.codacy.com/project/badge/Grade/908637ccc4b04317886bbea59b569b55"/>
   </a>
   <!-- Last commit -->
-  <a href="https://github.com/deppbrazil/repository-patterns/commits/master">
+  <a href="https://github.com/deppbrazil/playground/commits/master">
     <img alt="Last commit" src="https://img.shields.io/github/last-commit/deppbrazil/playground.svg">
   </a>
   <!-- Repo size -->
