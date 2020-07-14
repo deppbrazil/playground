@@ -45,8 +45,8 @@
 </p>
 
 ## Repositórios
--   [Deppbrazil](https://github.com/deppbrazil/deppbrazil)
--   [Log](https://github.com/deppbrazil/log)
+-   [Deppbrazil](https://github.com/deppbrazil/deppbrazil)`novo padrão`
+-   [Log](https://github.com/deppbrazil/log)`novo padrão`
 -   [Template repo](https://github.com/deppbrazil/template-repo)
 -   [CollabCode](https://github.com/deppbrazil/CollabCode)
 -   [Front-end Test Keyrus](https://github.com/deppbrazil/frontend-test-keyrus)
