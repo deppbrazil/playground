@@ -45,6 +45,7 @@
 </p>
 
 ## Repositórios
+-   [Deppbrazil](https://github.com/deppbrazil/deppbrazil)
 -   [Log](https://github.com/deppbrazil/log)
 -   [Template repo](https://github.com/deppbrazil/template-repo)
 -   [CollabCode](https://github.com/deppbrazil/CollabCode)
