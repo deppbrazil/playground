@@ -45,6 +45,7 @@
 </p>
 
 ## Repositories Projects
+-   [Playground](https://github.com/deppbrazil/playground) `new standard`
 -   [Deppbrazil](https://github.com/deppbrazil/deppbrazil) `new standard`
 -   [Log](https://github.com/deppbrazil/log) `new standard`
 -   [Template repo](https://github.com/deppbrazil/template-repo)
